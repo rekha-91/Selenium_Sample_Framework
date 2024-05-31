@@ -1,8 +1,8 @@
-package package1;
+package oneTest;
 
 import org.testng.annotations.Test;
 
-public class ContactTest1 
+public class ContactTest 
 {
 	@Test
 	public void createContactTest()

@@ -1,8 +1,8 @@
-package package2;
+package twoTest;
 
 import org.testng.annotations.Test;
 
-public class OrgTest1
+public class OrgTest
 {
 
 	@Test
